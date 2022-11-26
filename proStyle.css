@@ -1,0 +1,30 @@
+body{
+    background-color: #000026;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    
+
+}
+
+#clock-Container{
+    margin: 30px auto;
+    border: 4px solid;
+    border-color: green;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: table;
+    position: relative;
+}
+
+#clock-content{
+  display: table-cell;
+  vertical-align: middle;
+}
+#clock-Lable{
+    font-size: 2em;
+}
+#clock-counter{
+    font-size: 5em;
+}
